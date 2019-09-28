@@ -9,6 +9,7 @@ class Repository(private val apiCallInterface: WebService) {
     /*
      * method to call login
      * */
+
     fun executeLogin(loginModel: LoginRequestModel): Observable<JsonElement> {
         return apiCallInterface.login(loginModel)
     }
