@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoginMVVMSample</string>
+
+    <string name="invalid_pass">कृपया मान्य पासवर्ड दर्ज करें</string>
+    <string name="login">लॉगिन करें</string>
+    <string name="logout">लॉगआउट</string>
+    <string name="email_hint">कृपया ईमेल दर्ज करें</string>
+    <string name="pass_hint">कृपया पासवर्ड दर्ज करें</string>
+
+    <string name="empty_userId_Error">कृपया ईमेल दर्ज करें</string>
+    <string name="empty_password">पासवर्ड रिक्त नहीं हो सकता!</string>
+    <string name="invalid_email">कृपया मान्य ईमेल दर्ज करें</string>
+    <string name="click_for_lang">अंग्रेजी के लिए क्लिक करें</string>
+</resources>
